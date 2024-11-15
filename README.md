@@ -31,3 +31,8 @@ This project studies the idea of a standing wave-based clock distribution networ
 For more info, check the project's report: ([Report](https://github.com/muhammadaldacher/Analog-Design-of-Clock-Distribution-Network-using-Standing-Waves/blob/main/%5BPDF%5D%20Standing-Wave%20Clock%20Distribution%20Design.pdf)) <br/>
 
 My project on google drive: ([Drive](https://drive.google.com/drive/u/0/folders/1L3Vrf9t2GLT-Qg1laNYQ7fi81FxQL4CB?ddrp=1)) <br/>
+
+*****************
+Also, Check my notes:<br/>
+1- [Types of Clock Distribution](https://github.com/muhammadaldacher/Analog-Design-of-Clock-Distribution-Network-using-Standing-Waves/tree/main/1-%20Background)  
+2- [Standing Wave Simulations](https://github.com/muhammadaldacher/Analog-Design-of-Clock-Distribution-Network-using-Standing-Waves/tree/main/2-%20Standing%20Wave%20Simulations)
